@@ -7,22 +7,11 @@ The purpose of this README is to explain the directory structure for "Code".
 
 Our project "ai for all" is composed of three major parts: 
 
-	1. A Web Scraper, used to collect information from the web. For this project, 
-we scraped Amazon.com for information (product title, price, rating, product info, 
-number of reviews, etc.) on a variety of products. 
+	1. A Web Scraper, used to collect information from the web. For this project, we scraped Amazon.com for information (product title, price, rating, product info, number of reviews, etc.) on a variety of products. 
 
-	2. A website, www.itsaiforall.com (alternatively: https://aiforall.herokuapp.com/) 
-coded from scratch. In this website, we explain what "ai for all" is all about. While
-our project is ultimately a product that a business or consumer can make use of, a large 
-part of our project involves TEACHING. When we first accepted this project, it was on the
-premise that we would be creating a machine learning lesson for college students all across
-the country. While this is a a major part of the project, in time it expanded into something 
-much greater. The website serves a great purpose in explaining, teaching, and guiding users
-to something they have the option of themselves expanding on.   
+	2. A website, www.itsaiforall.com (alternatively: https://aiforall.herokuapp.com/) coded from scratch. In this website, we explain what "ai for all" is all about. While our project is ultimately a product that a business or consumer can make use of, a large part of our project involves TEACHING. When we first accepted this project, it was on the premise that we would be creating a machine learning lesson for college students all across the country. While this is a a major part of the project, in time it expanded into something much greater. The website serves a great purpose in explaining, teaching, and guiding users to something they have the option of themselves expanding on.   
 
-	3. A web app, where dynamic content is the key. The website serves its function of teaching
-and guiding, while the web app allows for the project to have dynamic visualizations and dynamic content
-via the web scraper and "Anvil" working together.
+	3. A web app, where dynamic content is the key. The website serves its function of teaching and guiding, while the web app allows for the project to have dynamic visualizations and dynamic content via the web scraper and "Anvil" working together.
 
 The website and the web scraper directories will be visible once you open the source code folder. 
 You will be met with two folders (one for each part) that include the code for that particular part and the relevant user manual and
