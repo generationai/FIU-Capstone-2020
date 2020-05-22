@@ -78,6 +78,5 @@ Anvil web app
 =============
 
 A word document with code for anvil forms.
-=============
 
 This concludes the contents of this README file.
