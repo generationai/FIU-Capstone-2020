@@ -7,7 +7,7 @@ pandas==1.0.1
 parsel==1.5.2
 pipenv==2018.11.26
 requests==2.22.0
-Scrapy==1.8.0
+Scrapy==2.6.1
 seaborn==0.10.0
 Twisted==20.3.0
 virtualenv==20.0.11
