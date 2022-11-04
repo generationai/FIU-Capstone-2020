@@ -9,7 +9,7 @@ pipenv==2018.11.26
 requests==2.22.0
 Scrapy==1.8.0
 seaborn==0.10.0
-Twisted==20.3.0
+Twisted==22.10.0
 virtualenv==20.0.11
 w3lib==1.21.0
 Werkzeug==1.0.0
